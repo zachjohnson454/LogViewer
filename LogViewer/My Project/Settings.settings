@@ -1,0 +1,165 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="My" GeneratedClassName="MySettings" UseMySettingsClassName="true">
+  <Profiles />
+  <Settings>
+    <Setting Name="ShowStartTab" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">True</Value>
+    </Setting>
+    <Setting Name="ShowFilesOnStartUp" Type="System.Collections.Specialized.StringCollection" Scope="User">
+      <Value Profile="(Default)">&lt;?xml version="1.0" encoding="utf-16"?&gt;
+&lt;ArrayOfString xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" /&gt;</Value>
+    </Setting>
+    <Setting Name="WindowStateDefault" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">True</Value>
+    </Setting>
+    <Setting Name="WindowStateMax" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">False</Value>
+    </Setting>
+    <Setting Name="WindowStateMin" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">False</Value>
+    </Setting>
+    <Setting Name="ShowFilesOnStartUpCheck" Type="System.Collections.Specialized.StringCollection" Scope="User">
+      <Value Profile="(Default)">&lt;?xml version="1.0" encoding="utf-16"?&gt;
+&lt;ArrayOfString xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema"&gt;
+  &lt;string&gt;True&lt;/string&gt;
+  &lt;string&gt;True&lt;/string&gt;
+  &lt;string&gt;False&lt;/string&gt;
+&lt;/ArrayOfString&gt;</Value>
+    </Setting>
+    <Setting Name="AutoReloadFile" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">False</Value>
+    </Setting>
+    <Setting Name="DefaultSavedCopy" Type="System.String" Scope="User">
+      <Value Profile="(Default)">C:\</Value>
+    </Setting>
+    <Setting Name="TextBackColor" Type="System.Drawing.Color" Scope="User">
+      <Value Profile="(Default)">White</Value>
+    </Setting>
+    <Setting Name="LineNumberBackColor" Type="System.Drawing.Color" Scope="User">
+      <Value Profile="(Default)">224, 224, 224</Value>
+    </Setting>
+    <Setting Name="TextFontColor" Type="System.Drawing.Color" Scope="User">
+      <Value Profile="(Default)">Black</Value>
+    </Setting>
+    <Setting Name="LineNumberFontColor" Type="System.Drawing.Color" Scope="User">
+      <Value Profile="(Default)">Black</Value>
+    </Setting>
+    <Setting Name="TextFont" Type="System.Drawing.Font" Scope="User">
+      <Value Profile="(Default)">Consolas, 8.25pt</Value>
+    </Setting>
+    <Setting Name="LineNumberFont" Type="System.Drawing.Font" Scope="User">
+      <Value Profile="(Default)">Consolas, 8.25pt</Value>
+    </Setting>
+    <Setting Name="TextFontString" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Consolas</Value>
+    </Setting>
+    <Setting Name="LineNumberFontString" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Consolas</Value>
+    </Setting>
+    <Setting Name="TextFontSize" Type="System.String" Scope="User">
+      <Value Profile="(Default)">10</Value>
+    </Setting>
+    <Setting Name="LineNumberFontSize" Type="System.String" Scope="User">
+      <Value Profile="(Default)">10</Value>
+    </Setting>
+    <Setting Name="AskForCopyPath" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">True</Value>
+    </Setting>
+    <Setting Name="AddDateToCopy" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">True</Value>
+    </Setting>
+    <Setting Name="LockFontSizes" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">True</Value>
+    </Setting>
+    <Setting Name="LockFont" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">True</Value>
+    </Setting>
+    <Setting Name="HighLightWords" Type="System.Collections.Specialized.StringCollection" Scope="User">
+      <Value Profile="(Default)">&lt;?xml version="1.0" encoding="utf-16"?&gt;
+&lt;ArrayOfString xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema"&gt;
+  &lt;string&gt;ERROR&lt;/string&gt;
+  &lt;string&gt;FAIL&lt;/string&gt;
+  &lt;string&gt;WARNING&lt;/string&gt;
+  &lt;string&gt;EXCEPTION&lt;/string&gt;
+  &lt;string&gt;INFO&lt;/string&gt;
+  &lt;string&gt;SUCCESS&lt;/string&gt;
+  &lt;string&gt;BUG&lt;/string&gt;
+  &lt;string&gt;CONFIG&lt;/string&gt;
+  &lt;string&gt;TODO&lt;/string&gt;
+  &lt;string&gt;FLAG&lt;/string&gt;
+  &lt;string&gt;INITIALIZE&lt;/string&gt;
+  &lt;string&gt;TERMINATE&lt;/string&gt;
+&lt;/ArrayOfString&gt;</Value>
+    </Setting>
+    <Setting Name="HighLightWordsColors" Type="System.Collections.Specialized.StringCollection" Scope="User">
+      <Value Profile="(Default)">&lt;?xml version="1.0" encoding="utf-16"?&gt;
+&lt;ArrayOfString xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema"&gt;
+  &lt;string&gt;-65536&lt;/string&gt;
+  &lt;string&gt;-65536&lt;/string&gt;
+  &lt;string&gt;-65536&lt;/string&gt;
+  &lt;string&gt;-32704&lt;/string&gt;
+  &lt;string&gt;-16744193&lt;/string&gt;
+  &lt;string&gt;-16711808&lt;/string&gt;
+  &lt;string&gt;-16711808&lt;/string&gt;
+  &lt;string&gt;-16711808&lt;/string&gt;
+  &lt;string&gt;-16711808&lt;/string&gt;
+  &lt;string&gt;-16711808&lt;/string&gt;
+  &lt;string&gt;-16711808&lt;/string&gt;
+  &lt;string&gt;-16711808&lt;/string&gt;
+&lt;/ArrayOfString&gt;</Value>
+    </Setting>
+    <Setting Name="HighLightWordsFontStyle" Type="System.Collections.Specialized.StringCollection" Scope="User">
+      <Value Profile="(Default)">&lt;?xml version="1.0" encoding="utf-16"?&gt;
+&lt;ArrayOfString xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema"&gt;
+  &lt;string&gt;FontStyle.Bold&lt;/string&gt;
+  &lt;string&gt;FontStyle.Bold&lt;/string&gt;
+  &lt;string&gt;FontStyle.Bold&lt;/string&gt;
+  &lt;string&gt;FontStyle.Bold&lt;/string&gt;
+  &lt;string&gt;FontStyle.Italic&lt;/string&gt;
+  &lt;string&gt;FontStyle.Regular&lt;/string&gt;
+  &lt;string&gt;FontStyle.Bold&lt;/string&gt;
+  &lt;string&gt;FontStyle.Regular&lt;/string&gt;
+  &lt;string&gt;FontStyle.Bold&lt;/string&gt;
+  &lt;string&gt;FontStyle.Bold&lt;/string&gt;
+  &lt;string&gt;FontStyle.Regular&lt;/string&gt;
+  &lt;string&gt;FontStyle.Regular&lt;/string&gt;
+&lt;/ArrayOfString&gt;</Value>
+    </Setting>
+    <Setting Name="FileTypes" Type="System.Collections.Specialized.StringCollection" Scope="User">
+      <Value Profile="(Default)">&lt;?xml version="1.0" encoding="utf-16"?&gt;
+&lt;ArrayOfString xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema"&gt;
+  &lt;string&gt;log files (*.log)&lt;/string&gt;
+  &lt;string&gt;txt files (*.txt)&lt;/string&gt;
+  &lt;string&gt;err files (*.err)&lt;/string&gt;
+  &lt;string&gt;csv files (*.csv)&lt;/string&gt;
+  &lt;string&gt;rtf files (*.rtf)&lt;/string&gt;
+  &lt;string&gt;sql files (*.sql)&lt;/string&gt;
+  &lt;string&gt;fil files (*.fil)&lt;/string&gt;
+  &lt;string&gt;bak files (*.bak)&lt;/string&gt;
+  &lt;string&gt;old files (*.old)&lt;/string&gt;
+  &lt;string&gt;ini files (*.ini)&lt;/string&gt;
+  &lt;string&gt;cfg files (*.cfg)&lt;/string&gt;
+  &lt;string&gt;config files (*.config)&lt;/string&gt;
+  &lt;string&gt;All files (*.*)&lt;/string&gt;
+&lt;/ArrayOfString&gt;</Value>
+    </Setting>
+    <Setting Name="AutoHighlight" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">True</Value>
+    </Setting>
+    <Setting Name="WarnBeforeReload" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">True</Value>
+    </Setting>
+    <Setting Name="RecurseDirectory" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">True</Value>
+    </Setting>
+    <Setting Name="FileMonitor" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">True</Value>
+    </Setting>
+    <Setting Name="ShowQuickSearch" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">True</Value>
+    </Setting>
+    <Setting Name="ScrollToEnd" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">True</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
